@@ -15,8 +15,7 @@
       <body>
       
   <html>
-  
-  
+    
       <body>
       
       <html>
@@ -29,7 +28,6 @@
             message = 'Hello';
             message = 'World!';
 
-
             let hello
             hello = 'Hello World!'
             let message
@@ -41,14 +39,12 @@
 
       <body>
       
-      
       <html>
       
       <script>
-
+      
             let ad = "Ferid";
             alert( `Salam, ${ad}`);
-
 
             let reqem = 1;
             alert(reqem);
@@ -70,7 +66,6 @@
       
       <html>
       
-
       <script>
 
       let yaş = promp('Neçə yaşınız var?', 0);
@@ -85,8 +80,7 @@
       } else {
           alert('Sehv cavab!);
       };
-      
-        
+  
       let cavab = prompt('Neçə fəsil var?');
       
       if(cavab < 4) {
@@ -96,14 +90,11 @@
       } else { 
         alert('Doğru cavab!);
       }
-        
-        
+
       </script>
-      
 
       </html>
 
-      
       </body>
 
       <body>
@@ -111,8 +102,7 @@
       <html>
       
       <script>
-      
-      
+
        function c(sual, beli, xeyr) {
     if (confirm(sual)) beli()
     else xeyr();
